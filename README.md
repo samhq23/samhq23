@@ -9,14 +9,14 @@
 <!-- ░░░ ANIMATED HEADER ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:F50057&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=52&fon[...]
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:F50057&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=52&fontColor=fff&fontAlign=50&fontAlignY=60&desc=AI%2FML%20Engineer%20%7C%2042%20%26%20Politecnico&descAlign=50&descAlignY=75" alt="header" />
   </a>
 </p>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politec[...]
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;Building+AI%2FML+Systems;Learning+from+the+Metal+Up;Bridging+Germany+%26+Beyond" alt="typing" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@ print(me.say_hi())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&titl[...]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt=[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ print(me.say_hi())
 
 <!-- ░░░ CONTRIBUTION ACTIVITY GRAPH ░░░ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00A8CC&point=FF6B35&hide_border=true&area=true" alt="activity"[...]
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00A8CC&point=FF6B35&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 <!-- ░░░ SNAKE ANIMATION (needs the workflow below — see setup notes) ░░░ -->
