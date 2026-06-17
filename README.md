@@ -9,14 +9,14 @@
 <!-- ░░░ ANIMATED HEADER ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:F50057&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=52&fontColor=fff&fontAlign=50&fontAlignY=60&desc=AI%2FML%20Engineer%20%7C%2042%20%26%20Politecnico&descAlign=50&descAlignY=75" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hey%2C%20I'm%20Sam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20making%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20learner&descSize=18&descAlignY=58" alt="header"/>
   </a>
 </p>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;Building+AI%2FML+Systems;Learning+from+the+Metal+Up;Bridging+Germany+%26+Beyond" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;Peer-to-peer+coder+%40+42+Heilbronn;Teaching+machines+to+think+%F0%9F%A4%96;Turning+%E2%98%95+into+code+since+day+one" alt="typing animation"/>
   </a>
 </p>
 
