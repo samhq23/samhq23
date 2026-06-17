@@ -9,22 +9,22 @@
 <!-- ░░░ ANIMATED HEADER ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%98%89&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00A8CC&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%98%89&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="header"/>
   </a>
 </p>
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
+<!-- ░��░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;AI%2FML+Engineer+in+training;Building+cool+things+with+code+%26+AI" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;AI%2FML+Engineer+in+training;Building+cool+things+with+code+%26+AI" alt="typing"/>
   </a>
 </p>
 
 <!-- ░░░ TOP BADGES ░░░ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samhq23&label=Profile%20views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/samhq23?style=for-the-badge&color=4A00E0&label=Followers" alt="followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blueviolet?style=for-the-badge" alt="focus"/>
+  <img src="https://komarev.com/ghpvc/?username=samhq23&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/samhq23?style=for-the-badge&color=00A8CC&label=Followers" alt="followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-00D9FF?style=for-the-badge" alt="focus"/>
 </p>
 
 ---
@@ -72,12 +72,12 @@ print(me.say_hi())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" alt="languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samhq23&theme=react&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samhq23&theme=react&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="streak"/>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ print(me.say_hi())
 
 <!-- ░░░ CONTRIBUTION ACTIVITY GRAPH ░░░ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00A8CC&point=FF6B35&hide_border=true&area=true" alt="activity"/>
 </p>
 
 <!-- ░░░ SNAKE ANIMATION (needs the workflow below — see setup notes) ░░░ -->
@@ -100,10 +100,10 @@ print(me.say_hi())
 
 <p align="center">
   <a href="https://github.com/samhq23/push_swap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samhq23&repo=push_swap&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="push_swap"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samhq23&repo=push_swap&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35" alt="push_swap"/>
   </a>
   <a href="https://github.com/samhq23/so_long">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samhq23&repo=so_long&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="so_long"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samhq23&repo=so_long&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35" alt="so_long"/>
   </a>
 </p>
 
@@ -125,7 +125,7 @@ print(me.say_hi())
   </a>
   <!-- Optional extras — uncomment + fill in:
   <a href="<<<YOUR_X_URL>>>"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="<<<YOUR_WEBSITE>>>"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="<<<YOUR_WEBSITE>>>"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   -->
 </p>
 
@@ -139,7 +139,7 @@ print(me.say_hi())
 
 <!-- ░░░ FOOTER ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8CC,100:00D9FF&height=120&section=footer" alt="footer"/>
 </p>
 
 <p align="center">
