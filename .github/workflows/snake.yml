@@ -9,11 +9,17 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate the snake eating your contributions
         uses: Platane/snk@v3
         with:
@@ -26,5 +32,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          fqdn: ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
