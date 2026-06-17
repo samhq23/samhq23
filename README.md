@@ -114,7 +114,7 @@ print(me.say_hi())
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="<<<https://www.linkedin.com/in/samir-farhan/>>>">
+  <a href="<<<https://www.linkedin.com/in/samir-farhan>>>">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:<<<farhanmasfick2003@gmail.com>>>">
