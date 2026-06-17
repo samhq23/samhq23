@@ -9,11 +9,11 @@
 <!-- ░░░ ANIMATED HEADER ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00A8CC&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%98%89&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:F50057&height=200&section=header&text=hi%2C%20I'm%20Sam%20%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=52&fontColor=ffffff&fontAlignY=50" alt="header"/>
   </a>
 </p>
 
-<!-- ░��░ TYPING ANIMATION ░░░ -->
+<!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico+di+Torino;AI%2FML+Engineer+in+training;Building+cool+things+with+code+%26+AI" alt="typing"/>
