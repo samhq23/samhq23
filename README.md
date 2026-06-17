@@ -9,21 +9,21 @@
 <!-- ░░░ ANIMATED HEADER ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hey%2C%20I'm%20Sam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=3[...]
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hey%2C%20I'm%20Sam%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=3" alt="header"/>
   </a>
 </p>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <a href="https://github.com/samhq23">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politec[...]
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+Politecnico;42+Heilbronn;AI%2FML+Engineer+in+training" alt="typing animation"/>
   </a>
 </p>
 
 <!-- ░░░ TOP BADGES ░░░ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samhq23&label=Profile%20views&color=8E2DE2&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/samhq23?label=Followers&style=for-the-badge&color=4A00E0" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/samhq23?style=for-the-badge&color=4A00E0&label=Followers" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-blueviolet?style=for-the-badge" alt="focus"/>
 </p>
 
@@ -72,8 +72,8 @@ print(me.say_hi())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&titl[...]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" alt=[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhq23&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhq23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ print(me.say_hi())
 
 <!-- ░░░ CONTRIBUTION ACTIVITY GRAPH ░░░ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity [...]
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhq23&theme=react-dark&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 <!-- ░░░ SNAKE ANIMATION (needs the workflow below — see setup notes) ░░░ -->
